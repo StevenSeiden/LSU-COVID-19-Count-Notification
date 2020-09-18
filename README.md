@@ -6,4 +6,4 @@ This is an unofficial Apple Shortcuts script that scrapes [LSU's Roadmap to Fall
 
 
 
-[<img src="install.png" alt="Install" width="150px" />](https://www.icloud.com/shortcuts/5608b21d5119483b8b7350a88a8e31b8)
+[<img src="install.png" alt="Install" width="150px" />](https://www.icloud.com/shortcuts/999b45e062cd45dba7ff5be290114e3c)
