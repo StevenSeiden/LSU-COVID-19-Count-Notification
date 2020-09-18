@@ -377,7 +377,7 @@
 				<key>UUID</key>
 				<string>C9B47A4D-406D-4808-871C-D446AD25EBF2</string>
 				<key>WFTextCustomSeparator</key>
-				<string> - </string>
+				<string>-</string>
 				<key>WFTextSeparator</key>
 				<string>Custom</string>
 				<key>text</key>
